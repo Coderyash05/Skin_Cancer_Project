@@ -1,0 +1,10 @@
+tensorflow
+torch
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+imbalanced-learn
+Pillow
+jupyter
