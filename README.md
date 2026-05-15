@@ -49,13 +49,14 @@ python -m venv venv
 
 Activate environment:
 
-Windows
+# Windows
 venv\Scripts\activate
-Linux/macOS
+# Linux/macOS
 source venv/bin/activate
-3. Install Dependencies
+# Install Dependencies
 pip install -r requirements.txt
-▶️ Run the Project
+
+## Run the Project
 
 Launch Jupyter Notebook:
 
